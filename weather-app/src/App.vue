@@ -62,7 +62,7 @@ export default {
         }
       }
     },
-    dateTimeBuilder() {
+/*     dateTimeBuilder() {
       const today = new Date();
       const date =
         today.getFullYear() +
@@ -77,7 +77,7 @@ export default {
             console.log(display);
     return display;
 
-    }
+    } */
     /*     februhtchWeather(e) {
 
       if (e.key == "Enter") {
